@@ -1,0 +1,17 @@
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #d4f3d4;
+}
+.work__wrapper{
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 100px 0;
+    text-align: center;
+}
+
+.work__wrapper button{
+    width: 150px;
+    height: 40px;
+    margin-top: 50px;
+}

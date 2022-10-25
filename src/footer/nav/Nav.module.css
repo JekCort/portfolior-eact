@@ -1,0 +1,43 @@
+.nav__list {
+    margin: 50px 0;
+    padding: 0;
+    display: flex;
+    flex-wrap: wrap;
+
+}
+
+.nav__list li {
+    width: 75px;
+    height: 75px;
+    margin-right: 75px;
+    list-style-type: none;
+    background-color: darkgray;
+}
+
+.nav__list li:last-child {
+    margin-right: 0;
+}
+
+.nav__list a {
+    text-decoration: none;
+}
+
+@media screen and (max-width: 710px) {
+    .nav__list li{
+        width: 75px;
+        height: 75px;
+        margin-right: 10px;
+
+
+    }
+}
+
+@media screen and (max-width: 400px) {
+    .nav__list li{
+        width: 60px;
+        height: 60px;
+        margin-right: 10px;
+
+
+    }
+}

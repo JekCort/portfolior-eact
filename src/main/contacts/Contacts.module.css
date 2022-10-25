@@ -1,0 +1,32 @@
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #e0c3c9;
+}
+.contacts__wrapper {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 100px 0;
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+.contacts__wrapper h2 {
+    margin-bottom: 50px;
+}
+.contacts__form {
+    max-width: 500px;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.contacts__form input {
+    margin-bottom: 10px;
+}
+
+.contacts__wrapper button{
+    width: 150px;
+    height: 40px;
+    margin-top: 50px;
+}

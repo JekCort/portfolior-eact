@@ -1,0 +1,36 @@
+.project__body{
+    max-width: 500px;
+    display: flex;
+    flex-direction: column;
+    align-self: center;
+    background-color: darkgray;
+}
+.project__wrapper_btn{
+    display: flex;
+    justify-content: center;
+}
+.project__btn{
+    margin: 100px 100px;
+    width: 150px;
+    height: 40px;
+    background-color: gray;
+}
+.project__desc{
+    padding: 10px 20px;
+    display: flex;
+    flex-direction: column;
+    background-color: #c4c2c2;
+}
+
+.project__name {
+    margin-bottom: 10px;
+}
+
+@media screen and (max-width: 370px) {
+    .project__btn{
+        margin: 80px 80px;
+        width: 150px;
+        height: 40px;
+        background-color: gray;
+    }
+}

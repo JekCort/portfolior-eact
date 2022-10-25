@@ -1,0 +1,30 @@
+.wrapper {
+    max-width: 1440px;
+    margin: 0 auto;
+    background-color: #b09cb0;
+}
+.projects__wrapper {
+    max-width: 1260px;
+    margin: 0 auto;
+    padding: 100px 0;
+}
+
+.projects__wrapper h2 {
+    margin: 0 0 100px;
+    text-align: center;
+}
+
+.projects__list{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+}
+
+
+@media screen and (max-width: 1108px) {
+    .projects__list{
+        justify-content: center;
+        gap: 100px;
+    }
+}
+
