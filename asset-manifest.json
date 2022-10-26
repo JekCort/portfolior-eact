@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/portfolior-eact/static/css/main.f7e44c9d.css",
+    "main.js": "/portfolior-eact/static/js/main.c5960133.js",
+    "static/js/787.42870b95.chunk.js": "/portfolior-eact/static/js/787.42870b95.chunk.js",
+    "index.html": "/portfolior-eact/index.html",
+    "main.f7e44c9d.css.map": "/portfolior-eact/static/css/main.f7e44c9d.css.map",
+    "main.c5960133.js.map": "/portfolior-eact/static/js/main.c5960133.js.map",
+    "787.42870b95.chunk.js.map": "/portfolior-eact/static/js/787.42870b95.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f7e44c9d.css",
+    "static/js/main.c5960133.js"
+  ]
+}
